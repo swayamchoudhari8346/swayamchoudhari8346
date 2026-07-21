@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Swayam Choudhari 👋
 
-<!--
-**swayamchoudhari8346/swayamchoudhari8346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building reliable systems — Linux, Cloud, DevOps, and Security.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Automating infrastructure and deployment pipelines
+- Hardening systems and exploring security best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Cloud platforms (AWS / Azure / GCP)
+- Container orchestration & Infrastructure as Code
+
+### 🛠️ Tools & Tech
+`Linux` `Docker` `Kubernetes` `Terraform` `AWS` `Git` `Bash` `CI/CD`
+
+### 📫 Reach me
+- Email: swayamchoudhari627@gmail.com
+- LinkedIn: https://www.linkedin.com/in/swayam-choudhari-a36871295/
+
+### ⚡ Fun fact
+I automate things so future-me doesn't have to.
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=swayamchoudhari8346&color=blue)
